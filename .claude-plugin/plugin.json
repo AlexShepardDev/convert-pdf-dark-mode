@@ -1,11 +1,16 @@
 {
   "name": "convert-pdf-dark-mode",
   "displayName": "Convert PDF Dark Mode",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Share a file and the convert pdf dark mode plugin makes a dark mode PDF. Its text stays selectable and photos keep their colors.",
   "author": {
     "name": "Alexandr Chebanika",
     "url": "https://convert-pdf-dark-mode.com/"
   },
-  "license": "MIT"
+  "homepage": "https://convert-pdf-dark-mode.com/",
+  "repository": "https://github.com/AlexShepardDev/convert-pdf-dark-mode",
+  "license": "MIT",
+  "documentationUrl": "https://github.com/AlexShepardDev/convert-pdf-dark-mode#readme",
+  "supportUrl": "https://github.com/AlexShepardDev/convert-pdf-dark-mode/issues",
+  "privacyPolicyUrl": "https://convert-pdf-dark-mode.com/privacy/"
 }
